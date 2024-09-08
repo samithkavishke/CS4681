@@ -1,3 +1,5 @@
+#References https://www.geeksforgeeks.org/self-organising-maps-kohonen-maps/
+
 import math
 
 
